@@ -1,7 +1,7 @@
 {
-  'sample_key': 'Doo Doo',
-  'base_pallet': [
-    '#000000',
-    '#FFFFFF'
+  "sample_key": "Doo Doo",
+  "base_pallet": [
+    "#000000",
+    "#FFFFFF"
   ]
 }
