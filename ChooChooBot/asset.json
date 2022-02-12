@@ -1,6 +1,6 @@
 {
-  'name': 'Choo Choo Bot',
-  'base_pallet': [
+  "name": "Choo Choo Bot",
+  "base_pallet": [
     "808080",
     "dcdcdc",
     "d3d3d3",
@@ -12,4 +12,20 @@
     "e5e4e2",
     "dbd7d2"
   ],
+  "segment_calibration": [
+    "top": 60,
+    "bottom: 350,
+    "left": 80,
+    "right": 320
+  ],
+  "numbers_calibration": [
+    "x": 125,
+    "y": 297,
+    "width": 23,
+    "height": 32,
+    "x_offset": 1,
+    "y_offset": 1,
+    "spacing": 3,
+    "padding": 2
+  ]
 }
