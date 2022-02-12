@@ -12,13 +12,13 @@
     "e5e4e2",
     "dbd7d2"
   ],
-  "segment_calibration": [
+  "segment_calibration": {
     "top": 60,
     "bottom": 350,
     "left": 80,
     "right": 320
-  ],
-  "numbers_calibration": [
+  },
+  "numbers_calibration": {
     "x": 125,
     "y": 297,
     "width": 23,
@@ -27,5 +27,5 @@
     "y_offset": 1,
     "spacing": 3,
     "padding": 2
-  ]
+  }
 }
