@@ -1,5 +1,6 @@
 {
   "name": "Choo Choo Bot",
+  "image": "image.png",
   "base_pallet": [
     "808080",
     "dcdcdc",
@@ -12,13 +13,14 @@
     "e5e4e2",
     "dbd7d2"
   ],
-  "segment_calibration": {
+  "region_calibration": {
     "top": 60,
     "bottom": 350,
     "left": 80,
     "right": 320
   },
   "numbers_calibration": {
+    "img_sheet": "numbers.png",
     "x": 125,
     "y": 297,
     "width": 23,
