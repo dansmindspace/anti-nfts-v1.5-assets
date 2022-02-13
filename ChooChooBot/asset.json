@@ -3,16 +3,16 @@
   "image": "image.png",
   "imgage_copyright": "The Coding Train",
   "base_pallet": [
-    "808080",
-    "dcdcdc",
-    "d3d3d3",
-    "c0c0c0",
-    "a9a9a9",
-    "778899",
-    "708090",
-    "696969",
-    "e5e4e2",
-    "dbd7d2"
+    "#808080",
+    "#dcdcdc",
+    "#d3d3d3",
+    "#c0c0c0",
+    "#a9a9a9",
+    "#778899",
+    "#708090",
+    "#696969",
+    "#e5e4e2",
+    "#dbd7d2"
   ],
   "region_calibration": {
     "top": 60,
