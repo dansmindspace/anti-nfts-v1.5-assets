@@ -1,6 +1,7 @@
 {
   "name": "Choo Choo Bot",
   "image": "image.png",
+  "imgage_copyright": "The Coding Train",
   "base_pallet": [
     "808080",
     "dcdcdc",
